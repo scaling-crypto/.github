@@ -1,7 +1,7 @@
 ---
 name: Feature Request Template
 about: "For feature requests. Please search for existing issues first."
-labels: enhancement
+labels: "type: feature"
 assignees: ''
 
 ---

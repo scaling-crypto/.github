@@ -1,7 +1,7 @@
 ---
 name: Bug Report Template
 about: "For filing bugs. Please search for existing issues first."
-labels: bug
+labels: "type: bug"
 assignees: ''
 
 ---
